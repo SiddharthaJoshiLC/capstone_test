@@ -65,7 +65,7 @@ jupyter_server_terminals==0.4.0
 jupyterlab-pygments==0.2.2
 jupyterlab-widgets==1.1.4
 kiwisolver==1.4.4
-leafmap==0.20.0
+leafmap==0.18.9
 mapclassify==2.5.0
 markdown-it-py==2.2.0
 MarkupSafe==2.1.2
