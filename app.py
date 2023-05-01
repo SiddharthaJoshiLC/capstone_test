@@ -11,13 +11,13 @@ def app():
     st.markdown("Welcome to Griham!")
     st.markdown("Please select SEARCH or BROWSE mode")
 
-    if st.button('SEARCH'):
+    if st.button('BROWSE'):
         HtmlFile = open("your_map.html", 'r', encoding='utf-8')
         source_code = HtmlFile.read() 
         print(source_code)
         components.html(source_code,width=2000,height=2000)
         # st.write(on_click=open('your_map.html'))
-    if st.button('BROWSE'):
+    if st.button('SEARCH'):
         st.write('UNDER CONSTRUCTION')
     
 if __name__ == '__main__':
