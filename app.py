@@ -1,4 +1,4 @@
-# Code from TDI lesson by Ana Hocevar.
+# Code adapted from TDI lesson by Ana Hocevar.
 
 import streamlit as st
 import streamlit.components.v1 as components
@@ -9,7 +9,7 @@ def app():
     
     # st.title("Griham - a data driven search for your next home")
     st.markdown("Welcome to Griham!")
-    st.markdown("Please select SEARCH or BROWSE mode")
+    st.markdown("Please select BROWSE or SEARCH mode")
 
     if st.button('BROWSE'):
         HtmlFile = open("your_map.html", 'r', encoding='utf-8')
