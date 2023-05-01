@@ -103,7 +103,7 @@ pydeck==0.8.1b0
 Pygments==2.15.1
 Pympler==1.0.1
 pyparsing==3.0.9
-pyproj==3.5.0
+pyproj==3.2.1
 pyrsistent==0.19.3
 pyshp==2.3.1
 PySocks==1.7.1
