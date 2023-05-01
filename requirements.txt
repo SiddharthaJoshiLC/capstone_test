@@ -44,7 +44,7 @@ idna==3.4
 importlib-metadata==6.6.0
 ipyevents==2.0.1
 ipyfilechooser==0.6.0
-ipykernel==6.22.0
+ipykernel==6.16.2
 ipyleaflet==0.17.2
 ipython==8.13.1
 ipython-genutils==0.2.0
