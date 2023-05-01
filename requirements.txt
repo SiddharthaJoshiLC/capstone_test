@@ -69,7 +69,7 @@ leafmap==0.18.9
 mapclassify==2.5.0
 markdown-it-py==2.2.0
 MarkupSafe==2.1.2
-matplotlib==3.7.1
+matplotlib==3.5.3
 matplotlib-inline==0.1.6
 mdurl==0.1.2
 mistune==2.0.5
