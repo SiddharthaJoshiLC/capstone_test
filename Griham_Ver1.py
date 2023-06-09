@@ -1,3 +1,7 @@
+# Siddhartha Joshi
+#
+# Griham_Ver1.py
+#
 # Setup stuff.
 
 # from descartes import PolygonPatch
